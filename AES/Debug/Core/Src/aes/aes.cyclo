@@ -1,0 +1,16 @@
+../Core/Src/aes/aes.c:26:6:add_round_key	2
+../Core/Src/aes/aes.c:33:6:print_state	2
+../Core/Src/aes/aes.c:43:6:sub_bytes	2
+../Core/Src/aes/aes.c:52:6:shift_rows	1
+../Core/Src/aes/aes.c:83:10:gmul	5
+../Core/Src/aes/aes.c:97:6:mixColumn	2
+../Core/Src/aes/aes.c:109:6:mixColumns	2
+../Core/Src/aes/aes.c:118:9:sbox_substitution	1
+../Core/Src/aes/aes.c:123:9:XOR_bytes	1
+../Core/Src/aes/aes.c:128:6:XOR_words	2
+../Core/Src/aes/aes.c:135:9:get_round_constant	1
+../Core/Src/aes/aes.c:141:6:g_function	1
+../Core/Src/aes/aes.c:165:6:key_expansion_by_round	1
+../Core/Src/aes/aes.c:198:6:AES_key_schedule	2
+../Core/Src/aes/aes.c:210:6:print_key	2
+../Core/Src/aes/aes.c:219:6:aes_encrypt	4
